@@ -4,7 +4,6 @@ MohammadHasan BakhtiariJavid
 
 ## How to run
 java -jar ChickenInvaders.jar
-estefade koind
 
 ## How to play:
 | Key | Action |
@@ -22,7 +21,7 @@ https://github.com/mbakhtiarijavid-hub/ChickenInvaders.git
 type : sqlite
 path : game.db
 tables : 
-	- users : one row per player account:
+	- `users` : one row per player account:
     	- `username` 
     	- `password` 
     	- `high_score` 
