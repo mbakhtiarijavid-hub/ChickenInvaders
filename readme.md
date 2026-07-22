@@ -18,39 +18,39 @@ java -jar ChickenInvaders.jar
 https://github.com/mbakhtiarijavid-hub/ChickenInvaders.git
 
 ## Database
-|type : sqlite|
+type : sqlite
 
-|path : game.db|
+path : game.db
 
-|tables : |
+tables : 
 
-|	- `users` : one row per player account:|
+	- `users` : one row per player account:
 
-|    	- `username` |
+    	- `username` 
 
-|    	- `password` |
+    	- `password` 
 
-|    	- `high_score` |
+    	- `high_score` 
 
-|    	- `last_level` |
+    	- `last_level` 
 
-|    	- `music_on`, `shot_on`, `crash_on`, `end_on`  — sound settings|
+    	- `music_on`, `shot_on`, `crash_on`, `end_on`  — sound settings
 
-|    	- `selected_plane` — currently selected plane skin|
+    	- `selected_plane` — currently selected plane skin
 
 
-|	- `game_history` — one row per completed game session:|
+	- `game_history` — one row per completed game session:
 
-|    	- `id` |
+    	- `id` 
 
-|    	- `username` |
+    	- `username` 
 
-|    	- `score` |
+    	- `score` 
 
-|    	- `last_level` |
+    	- `last_level` 
 
-|   	- `played_at` | 
+   	- `played_at` 
 
-|    	- `music_on`, `shot_on`, `crash_on`, `end_on` |
+    	- `music_on`, `shot_on`, `crash_on`, `end_on` 
 
 
