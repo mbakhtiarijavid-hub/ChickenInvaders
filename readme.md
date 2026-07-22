@@ -48,8 +48,8 @@ tables :
     	- `score` 
 
     	- `last_level` 
-
-   	- `played_at` 
+		
+		- `played_at` 
 
     	- `music_on`, `shot_on`, `crash_on`, `end_on` 
 
